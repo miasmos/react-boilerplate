@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/RichmondDay/2018-AmericanStandardMLB.git"
+        "url": "git+https://github.com/stephenpoole/react-boilerplate.git"
     },
     "author": "Richmond Day",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/RichmondDay/2018-AmericanStandardMLB/issues"
+        "url": "https://github.com/stephenpoole/react-boilerplate/issues"
     },
-    "homepage": "https://github.com/RichmondDay/2018-AmericanStandardMLB#readme",
+    "homepage": "https://github.com/stephenpoole/react-boilerplate#readme",
     "devDependencies": {
         "@babel/cli": "^7.0.0-beta.50",
         "@babel/core": "^7.0.0-beta.50",
