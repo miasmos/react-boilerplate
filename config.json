@@ -1,0 +1,14 @@
+{
+    "development": {},
+    "production": {},
+    "en": {
+        "url": ["englishdomain.ca", "staging.englishdomain.ca", "localhost"]
+    },
+    "fr": {
+        "url": [
+            "frenchdomain.ca",
+            "staging.frenchdomain.ca/#fr",
+            "localhost/#fr"
+        ]
+    }
+}
